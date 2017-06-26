@@ -5,9 +5,9 @@ namespace PresentationLayer
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Login :");
+            Console.WriteLine("Login");
             Console.Write("Username :");
             string UserName = Console.ReadLine();
             Console.Write("Password :");
@@ -25,6 +25,7 @@ namespace PresentationLayer
                 else
                 {
                     Console.WriteLine("Try Again");
+                    //return 0 ;
                 }
             }      
         }
