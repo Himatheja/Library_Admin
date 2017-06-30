@@ -1,6 +1,0 @@
-C:\Users\himatheja.durgam\Library_Admin\DataAccessLayer\bin\Debug\netstandard1.4\DataAccessLayer.deps.json
-C:\Users\himatheja.durgam\Library_Admin\DataAccessLayer\bin\Debug\netstandard1.4\DataAccessLayer.dll
-C:\Users\himatheja.durgam\Library_Admin\DataAccessLayer\bin\Debug\netstandard1.4\DataAccessLayer.pdb
-C:\Users\himatheja.durgam\Library_Admin\DataAccessLayer\obj\Debug\netstandard1.4\DataAccessLayer.AssemblyInfo.cs
-C:\Users\himatheja.durgam\Library_Admin\DataAccessLayer\obj\Debug\netstandard1.4\DataAccessLayer.dll
-C:\Users\himatheja.durgam\Library_Admin\DataAccessLayer\obj\Debug\netstandard1.4\DataAccessLayer.pdb
